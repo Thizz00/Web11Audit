@@ -35,3 +35,8 @@ Install requirements:
   pip install -r requirements.txt
 ```
 
+## Tests
+
+```bash
+  pytest tests/test_auditor.py
+```
