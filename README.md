@@ -35,6 +35,12 @@ Install requirements:
   pip install -r requirements.txt
 ```
 
+## Run the Script
+
+```bash
+python mainy.py https://example.com
+```
+
 ## Tests
 
 ```bash
